@@ -4,6 +4,7 @@ import Hero from './components/Hero'
 import BookingExperience from './components/BookingExperience'
 import SchedulingWorkflow from './components/SchedulingWorkflow'
 import CustomBookingSection from './components/CustomBookingSection'
+import FeatureSection from './components/FeatureSection'
 
 
 
@@ -16,7 +17,7 @@ function App() {
         <SchedulingWorkflow/>
         <CustomBookingSection/>
         <BookingExperience/>
-       
+        <FeatureSection/>
       </main>
     </div>
   )
