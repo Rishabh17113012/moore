@@ -1,10 +1,11 @@
 import React from 'react'
 import Navbar from './components/Navbar' 
 import Hero from './components/Hero'
-import FeatureSection from './components/featuresection'
 import BookingExperience from './components/BookingExperience'
 import SchedulingWorkflow from './components/SchedulingWorkflow'
 import CustomBookingSection from './components/CustomBookingSection'
+import FeatureSection from './components/featuresection'
+
 
 function App() {
   return (
